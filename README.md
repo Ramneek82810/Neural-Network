@@ -2,7 +2,8 @@
 
 A hands-on guide to understanding and building neural networks from scratch.
 
-🚀 About This Repository
+## 🚀 About This Repository
+
 This repository is inspired by Tariq Rashid's book, which breaks down the complexities of neural networks into simple, comprehensible steps. It is ideal for anyone curious about artificial intelligence and looking to create their first neural network.
 
 🧠 What You'll Learn:
