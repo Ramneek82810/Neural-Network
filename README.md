@@ -1,4 +1,4 @@
-## 📚 Make Your Own Neural Network
+# 📚 Make Your Own Neural Network
 
 A hands-on guide to understanding and building neural networks from scratch.
 
