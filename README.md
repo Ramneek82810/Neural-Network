@@ -6,11 +6,15 @@ A hands-on guide to understanding and building neural networks from scratch.
 
 This repository is inspired by Tariq Rashid's book, which breaks down the complexities of neural networks into simple, comprehensible steps. It is ideal for anyone curious about artificial intelligence and looking to create their first neural network.
 
-🧠 What You'll Learn:
-Core Concepts: Understand the mathematics behind neural networks, including gradient descent, backpropagation, and matrix operations.
-DIY Neural Network: Build a neural network using Python to recognize handwritten digits with the MNIST dataset.
-Real-World Applications: Explore how neural networks power innovations like image recognition and natural language processing.
-📂 Repository Contents
+## 🧠 What You'll Learn:
+
+-Core Concepts: Understand the mathematics behind neural networks, including gradient descent, backpropagation, and matrix operations.
+
+-DIY Neural Network: Build a neural network using Python to recognize handwritten digits with the MNIST dataset.
+
+-Real-World Applications: Explore how neural networks power innovations like image recognition and natural language processing.
+
+## 📂 Repository Contents
 Conceptual Framework: Learn the fundamentals of neural networks in a simple and visual way.
 Python Implementation: Step-by-step guide to coding your own neural network.
 Fun Enhancements: Experiment with additional features like data augmentation and visualizing the "mind" of a neural network.
