@@ -15,9 +15,13 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 -Real-World Applications: Explore how neural networks power innovations like image recognition and natural language processing.
 
 ## 📂 Repository Contents
+
 Conceptual Framework: Learn the fundamentals of neural networks in a simple and visual way.
+
 Python Implementation: Step-by-step guide to coding your own neural network.
+
 Fun Enhancements: Experiment with additional features like data augmentation and visualizing the "mind" of a neural network.
+
 🛠️ Tools and Resources
 Programming Language: Python
 Libraries: NumPy, Matplotlib
