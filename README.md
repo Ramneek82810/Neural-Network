@@ -24,13 +24,13 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 
 ## 🛠️ Tools and Resources
 
-Programming Language: Python
+-Programming Language: Python
 
-Libraries: NumPy, Matplotlib
+-Libraries: NumPy, Matplotlib
 
-Dataset: MNIST Handwritten Digits
+-Dataset: MNIST Handwritten Digits
 
-Hardware Support: Works on low-cost devices like Raspberry Pi!
+-Hardware Support: Works on low-cost devices like Raspberry Pi!
 
 ✨ Why This Matters
 Neural networks are at the core of AI advancements, from self-driving cars to language models. This project simplifies the journey, making these powerful tools accessible to everyone.
