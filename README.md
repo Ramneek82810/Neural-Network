@@ -22,7 +22,7 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 
 -Fun Enhancements: Experiment with additional features like data augmentation and visualizing the "mind" of a neural network.
 
-🛠️ Tools and Resources
+## 🛠️ Tools and Resources
 Programming Language: Python
 Libraries: NumPy, Matplotlib
 Dataset: MNIST Handwritten Digits
