@@ -33,7 +33,9 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 -Hardware Support: Works on low-cost devices like Raspberry Pi!
 
 ## ✨ Why This Matters
+
 Neural networks are at the core of AI advancements, from self-driving cars to language models. This project simplifies the journey, making these powerful tools accessible to everyone.
 
-🤝 Contribute
+## 🤝 Contribute
+
 Have suggestions or want to collaborate? Feel free to open issues or submit pull requests
