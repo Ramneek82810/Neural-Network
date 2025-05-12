@@ -8,7 +8,7 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 
 ## 🧠 What You'll Learn:
 
--Core Concepts: Understand the mathematics behind neural networks, including gradient descent, backpropagation, and matrix operations.
+- Core Concepts: Understand the mathematics behind neural networks, including gradient descent, backpropagation, and matrix operations.
 
 -DIY Neural Network: Build a neural network using Python to recognize handwritten digits with the MNIST dataset.
 
