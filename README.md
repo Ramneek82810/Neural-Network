@@ -12,7 +12,7 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 
 - DIY Neural Network: Build a neural network using Python to recognize handwritten digits with the MNIST dataset.
 
--Real-World Applications: Explore how neural networks power innovations like image recognition and natural language processing.
+- Real-World Applications: Explore how neural networks power innovations like image recognition and natural language processing.
 
 ## 📂 Repository Contents
 
