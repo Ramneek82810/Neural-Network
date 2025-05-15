@@ -16,7 +16,7 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 
 ## 📂 Repository Contents
 
--Conceptual Framework: Learn the fundamentals of neural networks in a simple and visual way.
+- Conceptual Framework: Learn the fundamentals of neural networks in a simple and visual way.
 
 -Python Implementation: Step-by-step guide to coding your own neural network.
 
