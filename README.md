@@ -20,7 +20,7 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 
 - Python Implementation: Step-by-step guide to coding your own neural network.
 
--Fun Enhancements: Experiment with additional features like data augmentation and visualizing the "mind" of a neural network.
+- Fun Enhancements: Experiment with additional features like data augmentation and visualizing the "mind" of a neural network.
 
 ## 🛠️ Tools and Resources
 
