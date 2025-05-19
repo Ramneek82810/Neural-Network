@@ -24,7 +24,7 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 
 ## 🛠️ Tools and Resources
 
--Programming Language: Python
+- Programming Language: Python
 
 -Libraries: NumPy, Matplotlib
 
