@@ -30,7 +30,7 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 
 - Dataset: MNIST Handwritten Digits
 
--Hardware Support: Works on low-cost devices like Raspberry Pi!
+- Hardware Support: Works on low-cost devices like Raspberry Pi!
 
 ## ✨ Why This Matters
 
