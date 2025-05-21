@@ -28,7 +28,7 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 
 - Libraries: NumPy, Matplotlib
 
--Dataset: MNIST Handwritten Digits
+- Dataset: MNIST Handwritten Digits
 
 -Hardware Support: Works on low-cost devices like Raspberry Pi!
 
