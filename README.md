@@ -26,7 +26,7 @@ This repository is inspired by Tariq Rashid's book, which breaks down the comple
 
 - Programming Language: Python
 
--Libraries: NumPy, Matplotlib
+- Libraries: NumPy, Matplotlib
 
 -Dataset: MNIST Handwritten Digits
 
