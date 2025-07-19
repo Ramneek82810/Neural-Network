@@ -15,8 +15,6 @@ This repository serves as a companion and study space for understanding neural n
 - 📖 **Reference Book**: The PDF version of *Make Your Own Neural Network* for offline reading.
 - 📝 **README Guide**: Overview of what this project is about and how you can benefit from the book.
 
-> 🔜 The Python code implementation based on the book will be added soon!
-
 ---
 
 ## 🚀 Why This Project Matters
